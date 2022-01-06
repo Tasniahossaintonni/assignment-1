@@ -86,4 +86,16 @@ h2{
     color: White;
     border-radius: 10px;
 }
-    
+.fourth-section{
+    margin-top: 80px;
+}   
+.left-sidee{
+    width: 60%;
+    margin-left: 110px;
+}
+.right-sidee{
+    width: 40%;
+}
+.right-sidee img{
+    width:70% ;
+}
