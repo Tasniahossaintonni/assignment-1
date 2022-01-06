@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .flexible-container{
     display: flex;
 }
@@ -62,3 +65,25 @@ h1{
     text-align: center;
     margin-top: 80px;
 }
+.third-section{
+    margin-top:80px ;
+}
+.left-side{
+    width: 40%;
+}
+.right-side{
+    width: 60%;
+    margin-right: 100px;
+}
+.left-side img{
+    width: 60%;
+    margin-left: 110px;
+}
+.documentation-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: tomato;
+    color: White;
+    border-radius: 10px;
+}
+    
