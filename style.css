@@ -99,3 +99,25 @@ h2{
 .right-sidee img{
     width:70% ;
 }
+.fifth-section{
+    margin-top:80px ;
+}
+.hire-left{
+    width: 40%;
+}
+.hire-right{
+    width: 60%;
+    margin-right: 100px;
+    margin-top: 80px;
+}
+.hire-left img{
+    width: 60%;
+    margin-left: 110px;
+}
+.hire-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: tomato;
+    color: White;
+    border-radius: 10px;
+}
