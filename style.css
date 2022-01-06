@@ -121,3 +121,18 @@ h2{
     color: White;
     border-radius: 10px;
 }
+.tomato{
+    color: tomato;
+}
+.last-section h1{
+    text-align: center;
+    color: white;
+}
+.last-section p{
+    text-align: center;
+    color: white;
+}
+.last-section{
+    background-color: rgba(3, 3, 37, 0.842);
+    height:150px;
+}
